@@ -15,7 +15,7 @@ Text image machine translation (TIMT) which translates source language text imag
 
 
 
-<img src="./Figures/model.pdf" style="zoom:60%;" />
+<img src="./Figures/model.jpg" style="zoom:60%;" />
 
 
 
